@@ -1,0 +1,8 @@
+body{
+    background-color: darkslategray;
+}
+
+.wrapper{
+    background-color: darksalmon;
+    border-radius: 1%, 1%, 1%, 1%;
+}
